@@ -17,6 +17,14 @@ I completed a cybersecurity bootcamp and am eager to re-enter the workforce, aim
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Tools
+  ### Network
+  
+## Certification
+<div>
+  <a href="https://1drv.ms/b/s!ArjYvU98QhpEhvNfBT7dK6hp-tvb3w?e=eCnpnp"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
+</div>
+
 
 
 <!--
