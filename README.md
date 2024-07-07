@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 my name is Luisa 
+<a href="https://www.linkedin.com/in/luisa-bowie-a8975784/" ><img src="" ></a>
 
 <!--
 **Tala101/Tala101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
