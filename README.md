@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/luisa-bowie-a8975784/" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="100" height="90" ></a>
 
 ## Introduction
-I am a cybersecurity professional enthusiast, interested in technology, and passionate about continuous learning .
+I am an aspiring cybersecurity professional, interested in technology, and passionate about continuous learning .
 
 ## Objective
 I completed a cybersecurity bootcamp and am eager to re-enter the workforce, aiming to transition into the cybersecurity field as a Cybersecurity Analyst Tier 1.
